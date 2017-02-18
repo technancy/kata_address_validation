@@ -2,6 +2,8 @@ Address Validation Kata
 
 Delete the commented out code showing a previous Shamelessly Green attempt (shamelessly full of conditionals).
 
+`rspec address_spec.rb`
+
 Make the test pass with your own Shamelessly Green code.
 
 Expose the hidden concepts and avoid Red Herrings.
